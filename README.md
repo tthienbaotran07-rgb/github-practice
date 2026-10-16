@@ -6,3 +6,8 @@ My first GitHub practice project
 - Git basics
 - GitHub Desktop
 - Version control
+## Project Goals
+
+- Practice Git branching
+- Learn collaborative development
+- Build better coding habits
